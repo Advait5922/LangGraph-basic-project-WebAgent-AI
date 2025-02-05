@@ -39,9 +39,9 @@ The application will be available at `http://127.0.0.1:8000` and you can test th
 
 To run the streamlit application, run the following command:
 
-'''bash
+```bash
 streamlit run ui.py
-'''
+```
 
 ## API Endpoints
 

@@ -1,4 +1,4 @@
-# MultiAgent Nexus: LangGraph AI Agent with FastAPI
+# LangGraph AI WebAgent with FastAPI
 
 This project provides a FastAPI-based web service that integrates with LangGraph and various tools to create a conversational AI agent. The agent can dynamically select between different language models and utilize tools like TavilySearchResults for enhanced functionality.
 

@@ -47,7 +47,7 @@ streamlit run ui.py
 
 ### POST /chat
 
-Interact with the chatbot using the specified model and system prompt.
+Interact with the chatbot using any of the specified models and your own system(role) and user prompt(task).
 
 ## Example Usage
 
